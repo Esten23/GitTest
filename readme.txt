@@ -6,6 +6,6 @@ Creating a new branch is quick.
 
 New push test---date :2018-9-20 14:12
 
-------------------
+----------------------------------
 
-Conflicting Test version 1 9/20 15:05
+Conflicting Test  9/20 15:54 success!
