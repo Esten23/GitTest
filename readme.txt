@@ -5,3 +5,7 @@ Git has a mutable index called stage.
 Creating a new branch is quick.
 
 New push test---date :2018-9-20 14:12
+
+----------------------------------
+
+Conflicting Test V2 9/20 15:06
