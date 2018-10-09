@@ -13,3 +13,5 @@ Conflicting Test  9/20 15:54 success!
 Conflicting Test
 
 Modify local repository . 2018/10/9 10:11
+
+Create a new branch,test Merge different branch to master. 
