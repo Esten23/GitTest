@@ -17,3 +17,5 @@ Modify local repository & Modify remote repositoty. 2018/10/9 pm
 Create a new branch,test Merge different branch to master. 
 
 Modify local file ,then pull remote file
+
+Now time is 16:24
