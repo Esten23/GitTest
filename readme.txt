@@ -10,4 +10,6 @@ New push test---date :2018-9-20 14:12
 
 Conflicting Test  9/20 15:54 success!
 
-Conflicting Test 
+Conflicting Test
+
+Modify local repository . 2018/10/9 10:11
