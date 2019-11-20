@@ -22,3 +22,5 @@ Now time is 16:24.
 
 
 2019/11/10 TEST1!!!
+
+Complete a compentant in local,and pull request...
